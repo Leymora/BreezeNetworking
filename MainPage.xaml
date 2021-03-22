@@ -16,7 +16,7 @@
     IsOpen="True"
     Severity="Success"
     Title="Title"
-    Message="Essential app message for your users to be informed of, acknowledge, or take action on." Margin="348,57,1122,936" />
+    Message="Essential app message for your users to be informed of, acknowledge, or take action on." Margin="232,131,928,779" />
 
 
         <muxc:ProgressRing IsActive="True" Height="90" RenderTransformOrigin="0.5,0.5" Width="90" >
